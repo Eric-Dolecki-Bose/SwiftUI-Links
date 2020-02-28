@@ -4,7 +4,7 @@ A simple gathering spot of my experiments and findings regarding SwiftUI.
 ![Eric Dolecki](./ericd.png)
 
 ### Links
-
+***
 * [Transforms and Animations](https://github.com/Eric-Dolecki-Bose/SwiftUI-Transforms)
 * [Dictionary ForEach with sectioned List](https://github.com/Eric-Dolecki-Bose/SwiftUI-Transforms)
 * [Sliders used a few different ways](https://github.com/Eric-Dolecki-Bose/SwiftUI-Sliders)
@@ -14,3 +14,7 @@ A simple gathering spot of my experiments and findings regarding SwiftUI.
 * [A List component, Timer with digital clock, DarkSky weather JSON parsing, progress indicator](https://github.com/Eric-Dolecki-Bose/Swift-UI-1)
 * [Simple layout like iOS's calculator, buttons, spacing, etc.](https://github.com/Eric-Dolecki-Bose/Swift-Calc)
 * [Passing data around and using navigation techniques](https://github.com/Eric-Dolecki-Bose/SwiftUI-Nav)
+
+### Tutorials/Documentation Resources
+
+* [Using Combine](https://heckj.github.io/swiftui-notes/) | This is an intermediate to advanced book, focusing fairly narrowly on how to use the Combine framework provided by Apple. The writing and examples expect that you have a solid understanding of Swift including reference and value types, protocols, and comfort with using common elements from the Foundation framework.
