@@ -1,6 +1,8 @@
 # SwiftUI-Links
 A simple gathering spot of my experiments and findings regarding SwiftUI. 
 
+![Eric Dolecki](./ericd.png)
+
 ### Links
 
 * [Transforms and Animations](https://github.com/Eric-Dolecki-Bose/SwiftUI-Transforms)
