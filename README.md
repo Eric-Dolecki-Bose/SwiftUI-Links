@@ -14,6 +14,7 @@ A simple gathering spot of my experiments and findings regarding SwiftUI.
 * [A List component, Timer with digital clock, DarkSky weather JSON parsing, progress indicator](https://github.com/Eric-Dolecki-Bose/Swift-UI-1)
 * [Simple layout like iOS's calculator, buttons, spacing, etc.](https://github.com/Eric-Dolecki-Bose/Swift-Calc)
 * [Passing data around and using navigation techniques](https://github.com/Eric-Dolecki-Bose/SwiftUI-Nav)
+* [SwiftUI hamburger menu almost fully realized](https://github.com/Eric-Dolecki-Bose/SwiftUI-Hamburger-Menu)
 
 ### Tutorials/Documentation Resources
 
