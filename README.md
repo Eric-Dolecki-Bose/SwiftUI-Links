@@ -3,6 +3,8 @@ A simple gathering spot of my experiments and findings regarding SwiftUI.
 
 ![Eric Dolecki](./ericd.png)
 
+I am a little wary of continuing much further at the moment because SwiftUI seems to be evolving over time and I have seen sample code change into different API uses - making it difficult to learn some of the Combine and other aspects without migration messages from the compiler in Xcode. This is all useful, and where applicable, I have updated old non-working code into servicable code that compiles and works. It's still slightly early days.
+
 ### Links
 ***
 * [Transforms and Animations](https://github.com/Eric-Dolecki-Bose/SwiftUI-Transforms)
