@@ -18,6 +18,7 @@ I am a little wary of continuing much further at the moment because SwiftUI seem
 1. [Passing data around and using navigation techniques](https://github.com/Eric-Dolecki-Bose/SwiftUI-Nav)
 1. [SwiftUI hamburger menu almost fully realized](https://github.com/Eric-Dolecki-Bose/SwiftUI-Hamburger-Menu)
 1. [SwiftUI shortcuts to CSS-based colors](https://github.com/Eric-Dolecki-Bose/SwiftUI-Colors)
+1. [SwiftUI timer kick off with HH,mm.ss.SS display](https://github.com/Eric-Dolecki-Bose/SwiftUI-Timer)
 
 ### Tutorials / Documentation / Resources
 ***
